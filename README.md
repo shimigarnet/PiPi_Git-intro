@@ -13,7 +13,7 @@ Git-GitHub講習会では事前に以下の環境が整っている前提で進�
 > ```
 >git config --global user.name {userName}
 >↓
->git config --global user.name mehm8128
+>git config --global user.name chron9103
 > ```
 
 > [!IMPORTANT]
@@ -24,6 +24,8 @@ Git-GitHub講習会では事前に以下の環境が整っている前提で進�
 リモートリポジトリをローカルにコピーする作業です。  
 1. GitHubで作成したリポジトリのページにて`HTTPS`を選択し、URLをコピー (赤丸の箇所をクリックでコピーできる)
 2. VScodeを開いて`Gitリポジトリのクローン > 先のURLをペーストし"Enter"を押す`
+![Gitリポジトリのクローン](data\0.2.1.2.1.JPG)
+![URLをペーストし"Enter"を押す](data\0.2.1.2.2.JPG)
 
 ### 0.2.2 Gitの設定
 ターミナルで以下のコマンドを実行してください。
