@@ -212,6 +212,6 @@ Gitはデフォルトでは管理するディレクトリ以下の全てのフ�
 # 特定の拡張子のファイルを無視する
 *.txt
 ```
-詳しくは公式テンプレート(https://github.com/github/gitignore)参照。
+詳しくは公式テンプレート( https://github.com/github/gitignore )参照。
 
 
