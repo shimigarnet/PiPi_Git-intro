@@ -1,6 +1,6 @@
 # PiPi_Git-intro
 
-Git-GitHub講習会では、チーム開発をする上で必須となるGitHubについて基礎的な知識及び使用方法を学びます。
+Git-GitHub講習会では、チーム開発をする上で必須となるGitHubについて基礎的な知識及び使用方法を学びます。  
 Contributor:くろむ(chrom._.) - PiedPiper青山テック愛好会 副サー長
 
 ## 目次
