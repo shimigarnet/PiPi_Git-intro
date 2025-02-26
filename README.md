@@ -1,7 +1,6 @@
 # PiPi_Git-intro
 
 Git-GitHub講習会では、チーム開発をする上で必須となるGitHubについて基礎的な知識及び使用方法を学びます。  
-Contributor:くろむ(chrom._.) - PiedPiper青山テック愛好会 副サー長
 
 ## 目次
 
@@ -216,5 +215,8 @@ Gitはデフォルトでは管理するディレクトリ以下の全てのフ�
 *.txt
 ```
 詳しくは公式テンプレート( https://github.com/github/gitignore )参照。
+
+---
+© 2025 PiedPiper青山テック愛好会
 
 
