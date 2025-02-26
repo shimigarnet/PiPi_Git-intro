@@ -183,10 +183,12 @@ VSCodeの左部バーにある`ソース管理`に変更したファイルが書
 ### 2.5.プルリクエスト(pull request)
 プルリクエストとは：  
 #WRITE ME!!
+<img src="data/2.5.jpg" width="100%">  
 
 ### 2.6 マージ(merge)
 マージとは：
 #WRITE ME!!
+<img src="data/2.6.jpg" width="100%">  
 
 ### 2.7 コンフリクト(conflict)
 コンフリクトとは：
