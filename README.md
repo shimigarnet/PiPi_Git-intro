@@ -81,8 +81,11 @@ git config --global init.defaultBranch main
 これから実際にファイルを編集して、その変更を他の人も見れるようにしていきます！
 
 ### 1.0 便利な拡張機能
-Git History
-Git Graph
+- Git Graph
+VSCodeの拡張機能の一つである"Git Graph"の導入をお勧めします。
+|機能  
+hoge
+|
 
 ### 1.1.1 ブランチの発行
 [用語解説(ブランチ)](#21-ブランチbranch)
