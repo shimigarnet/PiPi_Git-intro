@@ -83,12 +83,12 @@ git config --global init.defaultBranch main
 ### 1.0 便利な拡張機能
 - Git Graph  
    VSCodeの拡張機能の一つである"Git Graph"の導入をお勧めします。 
+   <img src="data/1.0.1.png" width="80%">  
     - 機能
       - Gitの履歴を視覚的に表示  
       - 各変更の詳細を表示  
       - ブランチの切り替え/各操作  
       etc.
-<img src="data/1.0.1.png" width="80%">  
 ツリー上の現在位置を把握しながら操作することができ便利です。
 
 
