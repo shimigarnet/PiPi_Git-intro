@@ -41,6 +41,10 @@ Git-GitHub講習会では、チーム開発をする上で必須となるGitHub�
 Git-GitHub講習会では事前に以下の環境が整っている前提で進められる。
  - Visual Studio Code
  - GitHubアカウント
+ - Git
+
+GitHubアカウントの作成方法については[こちら](https://docs.github.com/ja/get-started/start-your-journey/creating-an-account-on-github)を参照してください。  
+GitはGitHubを活用する上で必要なシステムです。[こちら](https://git-scm.com/book/ja/v2/%E4%BD%BF%E3%81%84%E5%A7%8B%E3%82%81%E3%82%8B-Git%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)を参考にインストールしてください。
 
 
 > [!WARNING]
