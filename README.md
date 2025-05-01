@@ -42,6 +42,8 @@ Git-GitHub講習会では事前に以下の環境が整っている前提で進�
  - Visual Studio Code
  - GitHubアカウント
 
+GitHubアカウントの作成方法については[こちら](https://docs.github.com/ja/get-started/start-your-journey/creating-an-account-on-github)を参照してください。
+
 
 > [!WARNING]
 > この資料では{}で括られているところは自分の情報に合わせて書き換えてください  
