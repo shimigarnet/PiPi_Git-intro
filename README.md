@@ -43,13 +43,21 @@ Git-GitHub講習会では事前に以下の環境が整っている前提で進�
  - GitHubアカウント
  - Git
 
-GitHubアカウントの作成方法については[こちら](https://docs.github.com/ja/get-started/start-your-journey/creating-an-account-on-github)を参照してください。  
+GitHubアカウントの作成方法については[こちら](https://docs.github.com/ja/get-started/start-your-journey/creating-an-account-on-github)を参照してください。 
+
 GitはGitHubを活用する上で必要なシステムです。[こちら](https://git-scm.com/book/ja/v2/%E4%BD%BF%E3%81%84%E5%A7%8B%E3%82%81%E3%82%8B-Git%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)を参考にインストールしてください。
+
 <details><summary>Gitのインストールについて</summary>
 
-Gitのインストール時にはいくつかの設定が求められます。  
-この章ではおすすめの設定のみを紹介するので各設定の意味等が気になる場合は自分で調べてください。
+Gitのインストール時にはいくつかの設定が求められます。    
 
+1. ダウンロードしたexeファイル(`Git-2.49.0-64-bit (3).exe`など)を展開します。 
+   ダウンロードするものは各自の環境に合ったものとしてください。(例：WindowsでありCPUがIntel or AMD製であれば`Git for Windows/x64 Setup.`からダウンロードする)  
+   展開すると利用規約が表示されるので同意できるのであれば`Next`をクリックし進んでください。
+   <img src="data/0.1.1.png" width="70%"> 
+2. Gitの設定をします。各設定の意味等は[こちら](https://qiita.com/takeru-hirai/items/4fbe6593d42f9a844b1c)に書いてあるので参照してください。基本的には初期設定で問題ないです。
+3. 設定が完了すると以下のような画面が表示されるはずです。
+   <img src="data/0.1.15.png" width="70%"> 
 </details>
 
 
