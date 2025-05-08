@@ -70,16 +70,6 @@ Gitのインストール時にはいくつかの設定が求められます。
    <img src="data/0.1.15.png" width="70%"> 
 </details>
 
-
-> [!WARNING]
-> この資料では{}で括られているところは自分の情報に合わせて書き換えてください  
-> 例：
-> ```
->git config --global user.name {userName}
->  ↓
->git config --global user.name chron9103
-> ```
-
 > [!IMPORTANT]
 > 何か問題が起きたら気軽に相談しましょう！
 
@@ -105,6 +95,16 @@ git config --global core.editor 'code --wait'
 # デフォルトのブランチをmasterからmainに変更。
 git config --global init.defaultBranch main
 ```
+
+> [!WARNING]
+> この資料では{}で括られているところは自分の情報に合わせて書き換えてください  
+> 例：
+> ```
+>git config --global user.name {userName}
+>  ↓
+>git config --global user.name chron9103
+> ```
+
 ## 1. 開発の進め方
 これから実際にファイルを編集して、その変更を他の人も見れるようにしていきます！
 
