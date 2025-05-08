@@ -47,6 +47,10 @@ GitHubアカウントの作成方法については[こちら](https://docs.gith
 
 GitはGitHubを活用する上で必要なシステムです。[こちら](https://git-scm.com/book/ja/v2/%E4%BD%BF%E3%81%84%E5%A7%8B%E3%82%81%E3%82%8B-Git%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)を参考にインストールしてください。
 
+> [!IMPORTANT]
+> GitHubのアカウント名を教えてください！
+> Discord上のチャンネル`Git-GitHub講習会`( [リンク](https://discord.com/channels/1304058364560543815/1304084983228399638 ))にて自分のアカウント名（例: chrom9103）を送信してください
+
 <details><summary>Gitのインストールについて</summary>
 
 Gitのインストール時にはいくつかの設定が求められます。    
@@ -55,29 +59,20 @@ Gitのインストール時にはいくつかの設定が求められます。
    ダウンロードするものは各自の環境に合ったものとしてください。(例：WindowsでありCPUがIntel or AMD製であれば`Git for Windows/x64 Setup.`からダウンロードする)  
    展開すると利用規約が表示されるので同意できるのであれば`Next`をクリックし進んでください。
    <img src="data/0.1.1.png" width="70%">
-   > [!TIP]
-   > Macを使用している人はMac用のインストーラーをダウンロードしてください。
-   > Windowsを使用している人はCPUに応じ2種類のインストーラーが存在します。
-   > 1. x64(AMD64) <-だいたいこっち！(Intel or AMD)
-   > 2. ARM64
-   > どちらか不安で確認したい場合はコマンドプロンプト上で以下のコードを入力してください。
-   > ```echo %PROCESSOR_ARCHITECTURE%```
-   > AMD64と表示された場合はx64版、ARM64と表示された場合はARM版をインストールしてください。
-   
+
+> Macを使用している人はMac用のインストーラーをダウンロードしてください。
+> Windowsを使用している人はCPUに応じ2種類のインストーラーが存在します。
+> 
+> 1. x64(AMD64) <-だいたいこっち！(Intel or AMD)  
+> 2. ARM64  
+> どちらか不安で確認したい場合はコマンドプロンプト上で以下のコードを入力してください。
+> ```echo %PROCESSOR_ARCHITECTURE%```
+> AMD64と表示された場合はx64版、ARM64と表示された場合はARM版をインストールしてください。
+
 2. Gitの設定をします。各設定の意味等は[こちら](https://qiita.com/takeru-hirai/items/4fbe6593d42f9a844b1c)に書いてあるので参照してください。基本的には初期設定で問題ないです。
 3. 設定が完了すると以下のような画面が表示されるはずです。
    <img src="data/0.1.15.png" width="70%"> 
 </details>
-
-
-> [!WARNING]
-> この資料では{}で括られているところは自分の情報に合わせて書き換えてください  
-> 例：
-> ```
->git config --global user.name {userName}
->  ↓
->git config --global user.name chron9103
-> ```
 
 > [!IMPORTANT]
 > 何か問題が起きたら気軽に相談しましょう！
@@ -104,6 +99,16 @@ git config --global core.editor 'code --wait'
 # デフォルトのブランチをmasterからmainに変更。
 git config --global init.defaultBranch main
 ```
+
+> [!WARNING]
+> この資料では{}で括られているところは自分の情報に合わせて書き換えてください  
+> 例：
+> ```
+>git config --global user.name {userName}
+>  ↓
+>git config --global user.name chron9103
+> ```
+
 ## 1. 開発の進め方
 これから実際にファイルを編集して、その変更を他の人も見れるようにしていきます！
 
