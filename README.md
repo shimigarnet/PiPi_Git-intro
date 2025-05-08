@@ -47,6 +47,10 @@ GitHubアカウントの作成方法については[こちら](https://docs.gith
 
 GitはGitHubを活用する上で必要なシステムです。[こちら](https://git-scm.com/book/ja/v2/%E4%BD%BF%E3%81%84%E5%A7%8B%E3%82%81%E3%82%8B-Git%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)を参考にインストールしてください。
 
+> [!IMPORTANT]
+> GitHubのアカウント名を教えてください！
+> Discord上のチャンネル`Git-GitHub講習会`( [リンク](https://discord.com/channels/1304058364560543815/1304084983228399638 ))にて自分のアカウント名（例: chrom9103）を送信してください
+
 <details><summary>Gitのインストールについて</summary>
 
 Gitのインストール時にはいくつかの設定が求められます。    
